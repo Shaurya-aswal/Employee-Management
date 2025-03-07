@@ -6,8 +6,8 @@ import Admin from "./components/Dashboard/Admin";
 const App = () => {
   return (
    <>
-   {/* <Login /> */}
-   <Admin/>
+   <Login />
+   {/* <Admin/> */}
    {/* <Employee/> */}
    </>
   );
